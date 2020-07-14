@@ -26,7 +26,8 @@ SECRET_KEY = 'sd-!#dq4_#+3tnr1(bk=&j_o%p)i)13*ywhp+(q24=un2wj9n='
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "intense-anchorage-19225.herokuapp.com"
+    "intense-anchorage-19225.herokuapp.com",
+    "127.0.0.1"
 ]
 
 
