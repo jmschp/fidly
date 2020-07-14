@@ -25,7 +25,9 @@ SECRET_KEY = 'sd-!#dq4_#+3tnr1(bk=&j_o%p)i)13*ywhp+(q24=un2wj9n='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "intense-anchorage-19225.herokuapp.com"
+]
 
 
 # Application definition
